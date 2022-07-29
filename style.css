@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+}
+
+.white {
+    color: white;
+}
+
+#idcenter {
+    text-align: center;
+    color: yellow;
+}
+
+.title {
+    background-color: darkblue;
+    font-size: 70px;
+}
+
+#starters_image_div{
+    text-align: center;
+    
+   
+}
+
+.center {
+    text-align: center;
+}
+
+.all_pokemon_container{
+    text-align: center;
+    
+}
+
+
+#bulbasaur_container{
+    background-color: lightgreen;
+    border: 2px solid yellow;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#charmander_container{
+    background-color: lightsalmon;
+    border: 2px solid yellow;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#squirtle_container{
+    background-color: lightblue;
+    border: 2px solid yellow;
+    border-radius: 8px;
+    padding: 5px;
+
+}
+
+#borderspci{
+border: 5px solid darkblue;
+padding: 4px;
+}
+
+.pokemon_images{
+  height:50 ;
+  width:100 ;  
+}
